@@ -1,0 +1,1 @@
+Express server that displays San Diego Top Spots when '/data' is added at the end of the URL. 
